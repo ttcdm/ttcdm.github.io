@@ -194,6 +194,24 @@ const projects = [
     githubUrl: "https://github.com",
     liveUrl: "https://example.com",
   },
+    {
+    id: 3,
+    title: "Project Two",
+    description: "Mobile-first e-commerce platform with seamless payment integration.",
+    image: "https://via.placeholder.com/400x200",
+    techStack: ["Next.js", "TypeScript", "Stripe", "Tailwind"],
+    githubUrl: "https://github.com",
+    liveUrl: "https://example.com",
+  },
+      {
+    id: 4,
+    title: "Project Two",
+    description: "Mobile-first e-commerce platform with seamless payment integration.",
+    image: "https://via.placeholder.com/400x200",
+    techStack: ["Next.js", "TypeScript", "Stripe", "Tailwind"],
+    githubUrl: "https://github.com",
+    liveUrl: "https://example.com",
+  },
 ];
 
 const Projects = () => {

@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # ttcdm.github.io
-=======
+
 
 # Demo 
 https://simplec0de.github.io/portfolio-01/
